@@ -1,0 +1,13 @@
+asgiref
+django==4.2.*
+djangorestframework
+django-environ
+drf-spectacular
+httpx
+mssql-django
+pydantic
+pytest
+pytest-asyncio
+pytest-django
+python-dotenv
+pyodbc
